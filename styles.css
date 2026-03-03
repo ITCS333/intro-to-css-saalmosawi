@@ -116,9 +116,9 @@ h2 {
      - Set the font-style to italic
 --------------------------------------------------------------- */
 .intro {
-  font-size : 1.1rem;
+  font-size: 1.1rem;
   line-height: 1.8;
-  font: italic;
+  font-style: italic;
 }
 
 
